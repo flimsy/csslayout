@@ -1,0 +1,49 @@
+li{
+	padding: 5px;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+img{
+	float: left;
+	padding-right: 10px;
+}
+
+.floatera{
+	text-decoration: none;
+	color: white;
+}
+.logo{
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    margin: 0 auto;
+    font-size: 50px;
+    padding-left: 18%;
+}
+
+.floaterli {
+	background-color: #0052cc;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	border: solid 2px white;
+}
+
+.floater{
+	width: 150px;
+	position: fixed;
+}
+
+.wrapper{
+	width: 900px;
+	margin: 0 auto;
+	background: white;
+	height: 800px;
+}
+
+.column{
+	width: 300px;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+}

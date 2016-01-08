@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	text-align: center;
+}
+
+img{
+
+}
+
+.wrapper{
+	margin: 0 auto;
+	border: solid 1px black;
+	height: 100%;
+}
+
+.imagecontainer{
+	width: 450px;
+	height: 350px;
+	background-color: black;
+	margin: 2px;
+	float: left;
+	text-align: bottom;
+	color: white;
+	border: solid 1px black;
+}
+
+.imagecontainer:hover{
+	border: solid 1px red;
+}
+
+.blocklogo{
+	display: block;
+	font-size: 100px;
+	font-style: bold;
+	text-align: center;
+	margin: 0 auto;
+	background-color: #0043A7;
+	padding: 0;
+}
